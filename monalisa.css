@@ -1,0 +1,58 @@
+.ana {
+    width: 100%;
+    background-color: red;
+    color: white;
+}
+
+.buton {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.buton button {
+    width: 25%;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    margin: 10px 10px;
+}
+
+.etiketler {
+    width: 100%;
+    margin: 25px 25px 50px 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.etiketler i {
+    margin-right: 50px;
+}
+
+.foto {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.foto img {
+    width: 750px;
+    height: 750px;
+    border-radius: 50px;
+}
+
+.p {
+    width: 750px;
+    margin-left: 30%;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
